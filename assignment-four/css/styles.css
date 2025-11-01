@@ -1,0 +1,65 @@
+body {
+    background-color:#dedede
+}
+
+h1 {
+    font-family: "Google Sans Code", monospace;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+    line-height: 0.5;
+}
+
+.second {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5
+}
+
+h3 {
+    font-family: "Bitcount Grid Single", system-ui;
+    font-style: normal;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.p1 {
+    font-family: "Asimovian", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.p2 {
+    font-family: "Lora", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p3 {
+    font-family: "Macondo", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.p4 {
+    font-family: "Uncial Antiqua", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.p5 {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:20px
+    
+}
+
+p {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
