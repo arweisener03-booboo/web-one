@@ -1,20 +1,38 @@
 body {
-    background-color:aliceblue;
+    background-color:#B1BF9B;
+}
+
+div {
+    background-color: #EBF5DC;
+    height: 190px
+}
+
+h1 {
+    color:#6B7366;
+    text-align: center;
+    line-height: 0.9;
+    padding: 10px 10px 0 
 }
 h1 {
-    color:palevioletred;
+    font-size:55px;
 }
-h1 {
-    font-size:60px;
+
+.elven-greeting {
+    color: #D9984A;
+    text-align: center;
+    font-size: 25px;
+    line-height: 0;
 }
-p {
-    color:#18718C;
+
+.tag-line {
+    color:#D9984A;
+    font-size: 20px;
+    text-align: center;
+    line-height: 0;
 }
-p {
-    font-size:30px
-}
+
 h2 {
-    color:palevioletred
+    color:#EBF5DC;
 }
 h2 {
     font-size:40px
