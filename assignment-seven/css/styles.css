@@ -1,0 +1,57 @@
+body {
+    background-color: #f1f5f0;
+}
+
+.background {
+    background-color: #bfe0bb;
+    width: 600px;
+    border: solid;
+    border-color: #407c65;
+    margin-left: 40px;
+    padding-bottom: 40px;
+}
+
+.img-1 {
+    background-image: url(../images/ponyo.boat.jpeg);
+    width: 450px;
+    height: 300px;
+    margin-left: 70px;
+    margin-top: 90px;
+    
+}
+
+.img-2 {
+    background-image: url(../images/ponyo.boat.jpeg);
+    width: 450px;
+    height: 300px;
+    background-size: 200px;
+    background-position: left center;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.img-3 {
+    background-image: url(../images/ponyo.boat.jpeg);
+    background-color: #38A77C;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 450px;
+    height: 300px;
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.img-4 {
+    object-fit: fill;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+
+.img-5 {
+    background-color: #38A77C;
+    margin-left: 70px;
+    object-fit: contain;
+    object-position: center center;
+}
