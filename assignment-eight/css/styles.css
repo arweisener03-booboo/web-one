@@ -1,0 +1,64 @@
+body {
+    background-color: #F9FCFF;
+}
+
+.nav-text {
+    text-align: right;
+    margin-top: -30px;
+    word-spacing: 30px;
+    color: #2d2e40;
+}
+
+h1 {
+    text-align: center;
+    margin-top: -200px;
+    color: white;
+}
+
+.welcome {
+    margin-top: 100px;
+    text-align: center
+}
+
+.learn {
+    text-align: center;
+}
+
+.button-1 {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #232354;
+    padding: 8px 12px;
+}
+
+.mid-header {
+    font-size: 30px;
+    color: #575a6f;
+}
+
+h5 {
+    text-align: center;
+}
+
+.column-1 {
+    float: right;
+    text-align: right;
+    margin-top: -200px;
+    margin-left: 400px;
+}
+
+.img-1 {
+    float: left;
+}
+
+.img-2 {
+    float: right;
+}
+
+.column-2 {
+    float: left;
+    text-align: left;
+    margin-top: -200px;
+    margin-right: 400px
+}
+
